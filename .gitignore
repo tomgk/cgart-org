@@ -1,1 +1,4 @@
 html/data-private/*
+_/html/*
+_/.forward/*
+_/log/*
