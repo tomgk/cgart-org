@@ -1,0 +1,14 @@
+<div style="width:600px; padding: 0.5em;text-align:center;border:1px dashed #a9a;margin:1em">
+    <div style="text-align:center;padding:0.25em 0 0.5em">
+        <p style="padding:0 0 0.5em 0"><a href="{$up_path}">Zurück zur Kategorie</a></p>
+        {if isset($prev_path)}<a href="{$prev_path}" style="float:left">&lt;&lt; Vorherige</a>{/if}
+        <h1 style="color:#232;font-weight: bold;font-size:1em;display:inline;border:none">{$title}</h1>
+        {if isset($next_path)}<a href="{$next_path}" style="float:right">Nächster &gt;&gt;</a>{/if}
+    </div>
+    
+    <img src="{$path}" title="{$title}" alt="{$title}" style="clear:both">
+    <div style="border-top:1px dashed #a9a;margin-top: 1em"><p style="float:left">{$title}</p><p style="float:right">Bild {$nr} von {$count}</p></div>
+    <p style="clear:both">{$technique}</p>
+    <p>{$height} x {$width}</p>
+    <p>{$c_year}</p>
+</div>

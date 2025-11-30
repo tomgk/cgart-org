@@ -1,0 +1,37 @@
+<style type="text/css">
+    .pics .centerbox, .pics .fatcenterbox
+    {
+        text-align:center;float:left;display:block;float:left;
+        width: 33%;
+    }
+
+    .pics .fatcenterbox
+    {
+        padding-left: 33%;
+    }
+</style>
+
+<h1>{$title}</h1>
+<div class="pics">
+    {if isset($description)}<div class="description">{$description}</div>{/if}
+
+    {* Erst ab 2 Seiten *}
+    {if $sites >= 2}
+    <p style="clear:both;float:left;width:600px">
+        {if isset($prev_path)}<a style="float:left;width:33%" href="{$prev_path}">&laquo; Vorherige Seite</a>{/if}
+        <span class="{if isset($prev_path)}centerbox{else}fatcenterbox{/if}">Seite {$site} von {$sites}</span>
+        {if isset($next_path)}<a style="float:right" href="{$next_path}">Nächste Seite &raquo;</a>{/if}
+        <br style="clear:both" />
+    </p>
+    {/if}
+
+    {foreach from=$pics item=pic}
+    <div class="pic">
+        <a href="{$pic.href}">
+            <img src="{$pic.path}" alt="{$pic.title}" title="{$pic.title}" />
+        </a>
+    </div>
+    {foreachelse}
+    <p><em>Es sind keine Werke in dieser Kategorie</em></p>
+    {/foreach}
+</div>

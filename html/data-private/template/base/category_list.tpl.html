@@ -1,0 +1,58 @@
+<h1>{$title}</h1>
+
+<div class="op-menu">
+{if $parent_cat_url}
+<ul>
+    <li><a href="{$parent_cat_url}" class="move-cat-up"> Ins Übergeordnete Verzeichnis</a></li>
+</ul>
+{/if}
+<ul>
+    <li><a href="{$pic_upload_path}" class="add-picture">Bild hinzufügen</a></li>
+    <li><a href="{$article_add_path}" class="article-add">Artikel hinzufügen</a></li>
+    <li><a href="{$categroy_add_path}" class="cat-add">Kategorie erstellen</a></li>
+</ul>
+</div>
+
+{if !empty($categorys)}
+    <h2 class="clear">{$cat_title}</h2>
+
+    <table class="object-list">
+    {foreach from=$categorys item=cat}
+        <tr>
+            <td class="name"><a class="cat-item" href="{$cat.url}">{$cat.title}</a></td>
+            <td><a href="{$cat.set_article}" title="Artikel festlegen"><img alt="Artikel festlegen" src="{$icon_path}silk/report.png" /></a></td>
+            <td><a href="{$cat.edit}" title="Kategorie bearbeiten"><img alt="Kategorie bearbeiten" src="{$icon_path}silk/pencil.png" /></a></td>
+        </tr>
+    {/foreach}
+    </table>
+{/if}
+
+{if !empty($pics)}
+    <h2 class="clear">{$pic_title}</h2>
+
+    <ul class="pic-list">
+        {foreach from=$pics item=pic}
+        <li id="pic{$pic.pic_id}">
+            <a href="{$pic.edit_url}">
+                <img src="{$pic.url}" title="{$pic.title}" alt="{$pic.title}"/>
+            </a>
+            {$pic.title}
+        </li>
+        {/foreach}
+    </ul>
+{/if}
+
+{if !empty($articles)}
+    <h2 class="clear">{$article_title}</h2>
+
+    <table class="object-list">
+        {foreach from=$articles item=article}
+        <tr>
+            <td><a class="article-item" href="{$article.show_path}">{$article.title}</a></td>
+            <td><a href="{$article.edit_path}" title="Artikel bearbeiten"><img alt="Artikel bearbeiten" src="{$icon_path}silk/pencil.png" /></a></td>
+            <td><a href="{$article.delete_path}" title="Artikel löschen"><img alt="Artikel löschen" src="{$icon_path}silk/report_delete.png" /></a></td>
+            <td>{$article.info}</td>
+        </tr>
+        {/foreach}
+    </table>
+{/if}

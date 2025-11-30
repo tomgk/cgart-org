@@ -1,0 +1,20 @@
+<h1>{$title}</h1>
+<p><a href="{$cancel_path}#pic{$pic_id}">Zurück zur Kategorie</a></p>
+<div style="width:600px; padding: 0.5em;text-align:center;border:1px dashed #a9a;margin:1em">
+    {if isset($path)}<img src="{$path}" title="{$title}" alt="{$title}" style="clear:both">{else}kein Bild gewählt{/if}
+
+    <form style="border-top:1px dashed #a9a;margin-top: 1em;text-align:left" action="{$save_path}" method="post">
+        {if $save_state !== null}
+        {if $save_state}<p style="color:green">Erfolgreich gespeichert</p>
+        {else}
+        <p style="color:red">Fehler beim Speichern (Änderungen wurden wahrscheinlich nicht angenommen)</p>{/if}
+        {/if}
+
+        <a href="{$pic_delete_path}" class="right"><span class="pic-delete-item">Bild löschen</span></a>
+        
+        <p>Titel: <input name="title" value="{$title}" /></p>
+        <p>Größe: <input name="height" value="{$height}" style="width:3em" /> x <input name="width" value="{$width}" style="width:3em" /></p>
+        <p>Jahr: <input name="c_year" value="{$c_year}" style="width:3em" /></p>
+        <p><input type="submit" value="Speichern"/> <a href="{$cancel_path}">Abbrechen</a></p>
+    </form>
+</div>

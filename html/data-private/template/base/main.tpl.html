@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>{$title}</title>
+
+        <link rel="stylesheet" type="text/css" href="{$css_path}base/main.css" />
+
+        <style type="text/css">
+            #logo
+            {
+                background-image: url('{$pic_path}{$skin.header_bg_img}');
+            }
+        </style>
+
+        {if isset($start_path)}<link rel="start" href="{$start_path}" title="{$start_title}" />{/if}
+        {if isset($up_path)}<link rel="up" href="{$up_path}" title="{$up_title}" />{/if}
+        {if isset($first_path)}<link rel="first" href="{$first_path}" title="{$first_title}" />{/if}
+        {if isset($prev_path)}<link rel="prev" href="{$prev_path}" title="{$prev_title}" />{/if}
+        {if isset($next_path)}<link rel="next" href="{$next_path}" title="{$next_title}" />{/if}
+        {if isset($last_path)}<link rel="last" href="{$last_path}" title="{$last_title}" />{/if}
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="header">
+                <h1 id="logo"><a href="{$wurl}">{$wtitle}</a></h1>
+
+                <div id="mainmenu"><ul>
+                    {foreach name=mainmenu from=$menu.main item=m}
+                    <li>
+                        <a href="{$m.href}">{$m.title}</a>
+                        {if not $smarty.foreach.mainmenu.last} · {/if}
+                    {/foreach}
+                    </li>
+                </ul></div>
+
+                <br clear="both" />
+            </div>
+
+            <div id="body">
+                {if isset($menu.submenu)}
+                <div id="sidebar">
+                    <ul>
+                        {foreach from=$menu.submenu item=m}
+                        <li>
+                            {if isset($m.selected)}
+                            <span class="selected">{$m.title}</span>
+                                {else}<a href="{$m.href}">{$m.title}</a></li>
+                            {/if}
+                        {/foreach}
+                    </ul>
+                </div>
+
+                <div id="content" class="withsidebar">{$content}</div>
+                {else}
+                <div id="content">{$content}</div>
+                {/if}
+
+                <!--[if IE]>
+                <br clear="both" />
+                <![endif]-->
+            </div>
+
+            <div id="footer">
+                <ul id="footermenu">
+                    {foreach name=footermenu from=$menu.footer item=m}
+                    <li>{if not $smarty.foreach.footermenu.last} · {/if}
+                    <a href="{$m.href}">{$m.title}</a>
+                        </li>
+                    {/foreach}
+                </ul>
+                
+                <p id="copyinfo">&copy; 2010 Carl Gölles</p>
+
+                <br clear="both" />
+            </div>
+        </div>
+    </body>
+</html>

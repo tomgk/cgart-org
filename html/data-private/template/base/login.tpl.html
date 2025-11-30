@@ -1,0 +1,48 @@
+<style type="text/css">
+    form.login
+    {
+        
+    }
+
+    .error
+    {
+        color: red;
+    }
+
+    form
+    {
+        padding: 0.5em;
+    }
+
+    dd, dt
+    {
+        padding: 0.25em 0;
+    }
+
+    dt
+    {
+        width: 10em;
+        float: left;
+    }
+
+    input.sumbit
+    {
+        clear: left;
+    }
+</style>
+
+<h1>{$title}</h1>
+
+<p class="{$status}">{$info}</p>
+
+<form class="login" action="{$url}" method="post">
+    <dl>
+        <dt><label for="user">Benutzername:</label></dt>
+        <dd><input id="user" name="{$usernamekey}" value="{$username}" /></dd>
+
+        <dt><label for="pw">Passwort:</label></dt>
+        <dd><input id="pw" name="{$passwordkey}" type="password" /></dd>
+    </dl>
+
+    <input class="submit" type="submit" value="Einloggen" />
+</form>

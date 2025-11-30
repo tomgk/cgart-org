@@ -1,0 +1,16 @@
+<h1>{$title}</h1>
+
+<div class="totalSpace">
+<h2>Totale Speicherauslastung</h2>
+<p>{$usedSpace} von {$availableSpace} belegt</p>
+<div class="bar"><div class="text">{$percent} %</div><div class="value{if $percent>90} critical{/if}" style="width:{$percent}%"></div></div>
+</div>
+
+<h2>Größe der Verzeichnisse</h2>
+
+<table class="spaceinfo">
+    <tr><th>Verzeichnis</th><th>Speicher</th><th>Dateien</th></tr>
+    {foreach from=$dirs item=dir}
+    <tr><td class="name">{$dir.name}</td><td class="space">{$dir.space}</td><td class="filecount">{$dir.filecount}</td></tr>
+    {/foreach}
+</table>
