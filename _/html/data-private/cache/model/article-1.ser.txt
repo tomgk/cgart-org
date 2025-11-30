@@ -1,0 +1,28 @@
+a:9:{s:10:"article_id";s:1:"1";s:5:"alias";s:10:"startseite";s:5:"title";s:10:"Startseite";s:4:"info";s:14:"Die Startseite";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-12 14:05:14";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"1";s:7:"content";s:1712:"<p><pic id="636" type="pv" align="left" width="564" height="400" /><pic id="637" type="pv" align="left" width="285" height="400" /><pic id="638" type="pv" align="left" width="569" height="400" /></p>
+<p><pic id="445" type="pv" align="left" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><pic id="444" type="pv" align="left" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><a href="/index.php/admin/pic/382"><pic id="4" type="pv" align="left" width="518" height="348" /> </a><a href="/index.php/admin/pic/380"> </a></p>
+<p style="clear: both; text-align: left;"><pic id="194" type="pv" align="left" /></p>
+<p style="clear: both; text-align: left;"> </p>
+<p style="clear: both; text-align: left;"><strong>0664 / 32 78 113</strong><br /><strong><a href="mailto:carl.goelles@gmx.at">carl.goelles@gmx.at</a></strong></p>
+<p>neue Bilder in Acryl am 31.12.2020 auf die homepage gestellt (siehe Werke / <a href="/index.php/werke/Acrylmalerei?site=56">Acrylmalerei Seite </a>65)<span style="line-height: 1.4375em;"> </span></p>
+<p>neue Bilder in Digitalart am 21.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Digitalart?site=14">Digitalart Seite 15</a>)</p>
+<p>neue Bilder in Monotypie 21.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Monotypie?site=14">Monotypie Seite 1</a>8)</p>
+<p style="clear: both; text-align: left;">neue Bilder in Enkaustik 07.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Enkaustik?site=11">Enkaustik Seite  1</a>5)</p>
+<p style="clear: both; text-align: left;"><strong><br /></strong></p>";}

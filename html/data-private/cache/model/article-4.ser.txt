@@ -1,0 +1,3 @@
+a:9:{s:10:"article_id";s:1:"4";s:5:"alias";s:9:"impressum";s:5:"title";s:9:"Impressum";s:4:"info";s:26:"Das Impressum der Webseite";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-21 15:47:49";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:157:"<p>Carl Gölles<br />Siebensterngasse  <br /> A-1070 Wien</p>
+<p>0676 / 565 98 14</p>
+<p><a href="mailto:carl.goelles@gmx.at">carl.goelles@gmx.at</a></p>";}

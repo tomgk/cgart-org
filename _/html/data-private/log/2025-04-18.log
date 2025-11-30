@@ -1,0 +1,4 @@
+52.15.187.85 [2025-04-18 8:27:24] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+52.15.187.85 [2025-04-18 8:27:27] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+52.15.187.85 [2025-04-18 8:27:31] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+52.15.187.85 [2025-04-18 8:27:34] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

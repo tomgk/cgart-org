@@ -1,0 +1,4 @@
+65.21.82.82 [2023-10-13 14:35:00] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404
+65.21.82.82 [2023-10-13 14:35:00] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+65.21.82.82 [2023-10-13 14:35:01] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+65.21.82.82 [2023-10-13 14:35:01] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404

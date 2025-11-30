@@ -1,0 +1,95 @@
+a:1:{i:0;a:9:{s:10:"article_id";s:2:"10";s:5:"alias";s:9:"noch-mehr";s:5:"title";s:20:"nächste Ausstellung";s:4:"info";s:0:"";s:6:"cat_id";s:1:"9";s:11:"create_date";s:19:"2011-02-26 16:59:50";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:9304:"<p style="text-align: center;"><strong><span style="font-size: medium;">Alle Bilder können Sie auch zwischendurch </span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: medium;">mit Terminvereinbarung anschauen und erwerben.</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: medium;"><br /></span></strong></p>
+<p style="text-align: center;"><span style="text-decoration: underline; font-size: x-large;"><strong>nächste Ausstellung:</strong></span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">---------------------------------------------------------------------------------------------------------</p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong><span style="text-decoration: underline;">Danke </span></strong><strong><span style="text-decoration: underline;">allen </span></strong><strong><span style="text-decoration: underline;">BesucherInnen </span></strong><strong><span style="text-decoration: underline;">der Ausstellung</span></strong><strong><span style="text-decoration: underline;">:</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong><span style="text-decoration: underline;"><br /></span></strong></span></p>
+<p style="text-align: center;"><strong style="font-size: x-large;">Donnerstag, 21 November 2019 um 19 Uhr</strong></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Ort: Alte Schieberkammer, 1150 Wien, Meiselstrasse 20</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;">(</span>Ecke Eduard Sueßgasse)</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">--------------------------------------------------------------------------------------------</p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>Danke allen BesucherInnen der Ausstellung:</strong></span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong>"Wassertanz  Farbentanz"</strong></span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong style="font-size: x-large;">Donnerstag, 27 September 2018 </strong></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Ort: Alte Schieberkammer, 1150 Wien, Meiselstrasse 20</strong></span></p>
+<p style="text-align: center;">(Ecke Eduard Sueßgasse)</p>
+<p style="text-align: center;">-----------------------------------------------------------------------------------------------</p>
+<p style="text-align: center;">Danke allen BesucherInnen von der Ausstellung:</p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong>"Welt Blick  - Farben Blick"</strong></span></p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong> </strong></span></p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong>Donnerstag, 8. Juni 2017</strong></span></p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong>um 19 Uhr<br /></strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Ort: Saal Pfarre Allerheiligen</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>1200 Wien, Vorgartenstrasse 56</strong></span></p>
+<p style="text-align: center;">--------------------------------------------------------------------------------------------------------------</p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Danke allen BesucherInnen von der</strong></span></p>
+<p style="text-align: center;"><span style="font-size: xx-large;"><strong>Ausstellung "Wasserwellen  Farbenwellen"</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Donnerstag, 3. November 2016</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>um 19 Uhr</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>Ort: Alte Schieberkammer</strong></span></p>
+<p style="text-align: center;"><span style="font-size: large;">1150 Wien, Meiselstrasse 20 (Ecke Eduard Sueßgasse )</span></p>
+<p style="text-align: center;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong><pic id="638" type="pv" align="left" width="569" height="400" /></strong></span><span style="font-size: medium;"><strong><br /></strong></span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">------------------------------------------------------------------------------------</p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>Teilnahme mit zwei Bildern an der Gruppenausstellung</strong></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>"Gefieder - flügel - federleicht"</strong></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>im Offspace KRAINZigARTig, Stumpergasse 38, 1060 Wien</strong></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>im Rahmen der Vienna Art week 2014 vom 17-23.11.2014</strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong>--------------------------------------------------------------------------------------</strong></span></p>
+<p style="text-align: center;"><span style="font-size: x-large;">Danke allen Besuchern von der Ausstellung</span></p>
+<p style="text-align: center;"><span style="font-size: x-large;"><strong>"Wasserstrom - Farbensturm"</strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong>vom </strong></span><span style="font-size: medium;"><strong>Donnerstag, </strong></span><span style="font-size: medium;"><strong>13. bis Sonntag, 16. November 2014</strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium;">in der</span></p>
+<p style="text-align: center;"><span style="font-size: medium;">Alte Schieberklammer </span><span style="font-size: medium;">1150 Wien, Meiselstraße 20 ( Ecke Eduard Sueßgasse)</span></p>
+<p style="text-align: center;"><strong><span style="font-size: xx-large;"><span style="font-size: large;">------------------------------------------------------------------------</span><br /></span></strong></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="font-size: x-large;">neu:  Es gibt Karten und Lesezeichen von den lustigen Gesellen:</span></strong></span></p>
+<p style="text-align: center;"><pic id="444" type="pv" align="left" /></p>
+<p style="text-align: center;"><pic id="445" type="pv" align="left" /></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><pic id="446" type="pv" align="left" /></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong><span style="font-size: xx-large;"> </span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">-------------------------------------------------------------------------------</p>
+<p style="text-align: center;"><span style="font-size: x-large;">Danke allen BesucherInnen der Ausstellung</span></p>
+<p style="text-align: center;"><strong><span style="font-size: x-large;">"Wasser - Not           Wüsten - Rot "</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: x-large;">Donners</span></strong><strong><span style="font-size: x-large;">tag, 21.11.2013</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Alte Schieberklammer</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">1150 Wien, Meiselstraße 2</span></strong><strong><span style="font-size: large;">0 ( Ecke Eduard Sueßgasse)</span></strong></p>
+<p style="text-align: center;"><br /><pic id="443" type="pv" align="left" /><pic id="441" type="pv" align="left" /></p>";}}

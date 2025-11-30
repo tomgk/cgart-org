@@ -1,0 +1,21 @@
+<h1>{$title}</h1>
+<div class="newsbox">
+    {*erst ab 2 Seiten*}
+    {if 3 > 2}
+    <div class="navbox">
+        {include file='nav_bar.tpl.html' prev_path="$prev_path"
+        next_path="$next_path" centertext="Seite $site von $sites"}
+        <br clear="both" />
+    </div>
+    {/if}
+
+    {foreach from=$news item=n}
+    <div class="news">
+        <h2>{$n.title}</h2>
+        <div class="content">{$n.content}</div>
+    </div>
+
+    {foreachelse}
+    <p><em>keine Neuigkeiten vorhanden</em></p>
+    {/foreach}
+</div>

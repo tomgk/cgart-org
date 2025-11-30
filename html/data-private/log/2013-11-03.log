@@ -1,0 +1,4 @@
+157.55.35.44 [2013-11-03 10:58:13] "GET /index.php/werke/%C3%83%E2%80%93lmalerei/2-Winterseelandschaft" ERROR: Status 404
+157.56.92.149 [2013-11-03 11:16:51] "GET /index.php/werke/%C3%EF%BF%BDlmalerei" ERROR: Status 404
+157.55.35.105 [2013-11-03 12:00:57] "GET /index.php/werke/%C3%83%E2%80%93lmalerei/3-Fischerhafen" ERROR: Status 404
+157.55.35.105 [2013-11-03 12:01:05] "GET /index.php/werke/%C3%83%E2%80%93lmalerei?site=1" ERROR: Status 404

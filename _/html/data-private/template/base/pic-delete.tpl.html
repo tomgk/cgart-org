@@ -1,0 +1,14 @@
+<h1>{$title}</h1>
+
+<p>Wirklich löschen?</p>
+<div>
+<form style="display:inline" action="{$delete_path}" method="post">
+    <input name="{$real_delete}" type="hidden" value="yes" />
+    <input type="submit" value="Ja" />
+</form>
+
+<form style="display:inline" action="{$back_path}" method="get">
+    <input value="Nein" type="submit" />
+</form>
+</div>
+<img src="{$img_path}" title="{$title}" alt="{$title}" />

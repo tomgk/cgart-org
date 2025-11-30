@@ -1,0 +1,5 @@
+85.93.89.74 [2016-02-13 11:55:43] "GET /index.php/werke/acrylmalerei/253-" ERROR: Status 404
+85.93.89.74 [2016-02-13 11:55:43] "GET /index.php/werke/acrylmalerei?site=47" ERROR: Status 404
+85.93.89.74 [2016-02-13 11:55:43] "GET /index.php/werke/digitalart?site=7" ERROR: Status 404
+85.93.89.74 [2016-02-13 11:55:43] "GET /index.php/werke/monotypie?site=7" ERROR: Status 404
+85.93.89.74 [2016-02-13 11:55:44] "GET /index.php/werke/enkaustik?site=7" ERROR: Status 404

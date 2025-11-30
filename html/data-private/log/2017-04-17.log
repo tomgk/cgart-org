@@ -1,0 +1,15 @@
+158.69.229.6 [2017-04-17 6:51:13] "GET /index.php/werke/acrylmalerei?site=49" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:14] "GET /index.php/werke/digitalart?site=7" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:14] "GET /index.php/werke/monotypie?site=7" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:14] "GET /index.php/werke/enkaustik?site=7" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:15] "GET /index.php/werke/acrylmalerei" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:15] "GET /index.php/werke/aquarell" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:16] "GET /index.php/werke/enkaustik" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:16] "GET /index.php/werke/monotypie" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:16] "GET /index.php/werke/zeichnung" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:16] "GET /index.php/werke/fotografie" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:16] "GET /index.php/werke/digitalart" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:17] "GET /index.php/werke/acrylmalerei/5-papageien+im+bl%C3%BCtenmeer" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:17] "GET /index.php/werke/acrylmalerei/112-" ERROR: Status 404
+158.69.229.6 [2017-04-17 6:51:17] "GET /index.php/werke/acrylmalerei/106-" ERROR: Status 404
+157.55.39.95 [2017-04-17 16:49:21] "GET /index.php/werke/enkaustik" ERROR: Status 404

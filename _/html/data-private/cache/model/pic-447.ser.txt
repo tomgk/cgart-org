@@ -1,0 +1,1 @@
+a:7:{s:6:"pic_id";s:3:"447";s:5:"title";s:10:"beflügelt";s:4:"type";s:3:"jpg";s:5:"width";s:3:"120";s:6:"height";s:2:"80";s:6:"c_year";s:4:"2013";s:6:"cat_id";s:1:"1";}

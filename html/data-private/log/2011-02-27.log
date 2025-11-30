@@ -1,0 +1,2 @@
+127.0.0.1 [2011-02-27 14:38:06] "GET /index.php/aktuelles?site=12" ERROR: Status 404
+127.0.0.1 [2011-02-27 14:38:30] "GET /index.php/aktuelles?site=55" ERROR: Status 404

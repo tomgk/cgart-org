@@ -1,0 +1,4 @@
+65.52.111.136 [2012-05-10 3:21:42] "GET /index.php/werke/acrylmalerei/4-" ERROR: Status 404
+65.52.111.65 [2012-05-10 5:42:15] "GET /index.php/werke/acrylmalerei?site=19" ERROR: Status 404
+65.52.111.144 [2012-05-10 7:45:15] "GET /index.php/werke/acrylmalerei/5-papageien+im+bl%C3%83%C2%BCtenmeer" ERROR: Status 404
+157.55.17.79 [2012-05-10 15:20:03] "GET /index.php/werke/aquarell" ERROR: Status 404

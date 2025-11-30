@@ -1,0 +1,2 @@
+164.132.161.51 [2016-08-27 0:20:16] "GET /index.php/werke/Monotypie/50-" FATAL: Cannot connect to database (1040): Too many connections
+157.55.39.202 [2016-08-27 8:40:30] "GET /index.php/werke/%C3%83%E2%80%93lmalerei?site=1" ERROR: Status 404

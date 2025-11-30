@@ -1,0 +1,4 @@
+18.117.191.50 [2025-06-22 3:02:00] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+18.117.191.50 [2025-06-22 3:02:03] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+18.117.191.50 [2025-06-22 3:02:07] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+18.117.191.50 [2025-06-22 3:02:10] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

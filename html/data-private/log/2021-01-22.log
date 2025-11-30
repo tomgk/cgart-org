@@ -1,0 +1,14 @@
+51.161.119.229 [2021-01-22 19:53:57] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:53:58] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:53:59] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:53:59] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:00] "GET /index.php/werke/acrylmalerei" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:00] "GET /index.php/werke/aquarell" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:01] "GET /index.php/werke/enkaustik" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:01] "GET /index.php/werke/monotypie" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:02] "GET /index.php/werke/zeichnung" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:02] "GET /index.php/werke/fotografie" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:02] "GET /index.php/werke/digitalart" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:02] "GET /index.php/werke/acrylmalerei/5-papageien+im+bl%C3%BCtenmeer" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:03] "GET /index.php/werke/acrylmalerei/112-" ERROR: Status 404
+51.161.119.229 [2021-01-22 19:54:03] "GET /index.php/werke/acrylmalerei/106-" ERROR: Status 404

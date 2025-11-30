@@ -1,0 +1,4 @@
+18.188.110.40 [2025-08-18 16:15:28] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+18.188.110.40 [2025-08-18 16:15:31] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+18.188.110.40 [2025-08-18 16:15:34] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+18.188.110.40 [2025-08-18 16:15:37] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

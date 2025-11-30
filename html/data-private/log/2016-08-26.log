@@ -1,0 +1,2 @@
+164.132.161.58 [2016-08-26 21:24:54] "GET /index.php/werke/Digitalart/43-" FATAL: Cannot connect to database (1040): Too many connections
+207.46.13.173 [2016-08-26 22:10:08] "GET /index.php/werke/Acrylmalerei/178-" FATAL: Cannot connect to database (1040): Too many connections

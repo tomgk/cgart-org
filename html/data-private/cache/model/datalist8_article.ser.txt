@@ -1,0 +1,122 @@
+a:10:{i:0;a:9:{s:10:"article_id";s:1:"1";s:5:"alias";s:10:"startseite";s:5:"title";s:10:"Startseite";s:4:"info";s:14:"Die Startseite";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-12 14:05:14";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"1";s:7:"content";s:1712:"<p><pic id="636" type="pv" align="left" width="564" height="400" /><pic id="637" type="pv" align="left" width="285" height="400" /><pic id="638" type="pv" align="left" width="569" height="400" /></p>
+<p><pic id="445" type="pv" align="left" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><pic id="444" type="pv" align="left" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><a href="/index.php/admin/pic/382"><pic id="4" type="pv" align="left" width="518" height="348" /> </a><a href="/index.php/admin/pic/380"> </a></p>
+<p style="clear: both; text-align: left;"><pic id="194" type="pv" align="left" /></p>
+<p style="clear: both; text-align: left;"> </p>
+<p style="clear: both; text-align: left;"><strong>0664 / 32 78 113</strong><br /><strong><a href="mailto:carl.goelles@gmx.at">carl.goelles@gmx.at</a></strong></p>
+<p>neue Bilder in Acryl am 31.12.2020 auf die homepage gestellt (siehe Werke / <a href="/index.php/werke/Acrylmalerei?site=56">Acrylmalerei Seite </a>65)<span style="line-height: 1.4375em;"> </span></p>
+<p>neue Bilder in Digitalart am 21.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Digitalart?site=14">Digitalart Seite 15</a>)</p>
+<p>neue Bilder in Monotypie 21.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Monotypie?site=14">Monotypie Seite 1</a>8)</p>
+<p style="clear: both; text-align: left;">neue Bilder in Enkaustik 07.03.2021 auf die Homepage gestellt ( siehe Werke / <a href="/index.php/werke/Enkaustik?site=11">Enkaustik Seite  1</a>5)</p>
+<p style="clear: both; text-align: left;"><strong><br /></strong></p>";}i:1;a:9:{s:10:"article_id";s:1:"2";s:5:"alias";s:5:"werke";s:5:"title";s:5:"Werke";s:4:"info";s:17:"Infos über Werke";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-12 19:37:30";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"1";s:7:"content";s:955:"<p style="text-align: left;"><pic id="638" type="pv" align="left" width="569" height="400" /><pic id="636" type="tn" width="200" height="141" /></p>
+<div class="pic">
+<ul class="pic-list">
+</ul>
+<pic id="15" type="tn" align="left" /></div>
+<div class="pic">
+<div class="pic">
+<div class="pic">
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/5-Papageien+im+Bl%C3%BCtenmeer"> </a><a href="/index.php/werke/Acrylmalerei/5-Papageien+im+Bl%C3%BCtenmeer"> </a>
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/112-"> </a>
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/106-"></a><a href="http://carl-goelles.at/index.php/admin/pic/467"><pic id="467" type="tn" align="left" width="212" height="213" /> </a></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+</div>
+</div>
+</div>
+</div>
+</div>";}i:2;a:9:{s:10:"article_id";s:1:"3";s:5:"alias";s:9:"biografie";s:5:"title";s:9:"Biografie";s:4:"info";s:13:"Die Biografie";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-12 20:04:22";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"1";s:7:"content";s:2448:"<ul>
+</ul>
+<p>Mag. Carl Gölles</p>
+<p><a href="/index.php/admin/pic/277"> </a><a href="/index.php/admin/pic/276"> <pic id="276" type="tn" align="left" /></a></p>
+<ul>
+<li><strong><span style="font-size: large;">Lebenslauf </span></strong> 
+<ul>
+<li>1960: in Feldbach/Steiermark       geboren</li>
+<li>2002: Erste Arbeiten mit Acryl</li>
+<li>seit 2002 Auseinandersetzung und Weiterentwicklung in verschiedenen Techniken wie Acryl, Öl, Monotypie, Eitempera, Enkaustik, Aquarell, usw. durch Teilnahme an unterschiedlichen Kursen</li>
+<li>2003 bis 2004: Künstlerische       Volkshochschule Lazarettgasse, 1090 Wien, Mag.<sup>a</sup> Catharine       Reichel (Acryl)</li>
+<li>Seit 2004: Regelmäßiger Besuch       des Ateliers Mag.<sup>a</sup> Catharine Reichel (Acryl), Wien; </li>
+</ul>
+</li>
+<li><strong><span style="font-size: large;">Ausstellun</span></strong><strong><span style="font-size: large;">gen</span></strong> 
+<ul>
+<li>Juli bis August 2003:       Restaurant "Inigo", 1010 Wien</li>
+<li>April 2005: Restaurant       "Auftritt", 1140 Wien</li>
+<li>3. Oktober bis 26. November       2006: Bildungshaus Großrußbach, Niederösterreich</li>
+<li>Mai 2008: "Alte       Schieberkammer", 1150 Wien</li>
+<li>November 2009: "Alte       Schieberkammer", 1150 Wien</li>
+<li>November 2010 bis Jänner 2011:       Gang Galerie Salvator, Graz</li>
+<li>November 2010: Pfarrsaal       Allerheiligen, 1200 Wien</li>
+<li>24. Mai bis 7. Juni 2011:       Festsaal Amtshaus, Ausstellung im Rahmen der Bezirksfestwochen Mariahilf,       1060 Wien</li>
+<li>November 2011: "Verrückt nach Meer und mehr . .  ."  in der "Alten Schieberkammer", 1150 Wien</li>
+<li>Oktober 2012: "Wasserwelten - Farbenwelten" in der "Alten Schieberkammer", 1150 Wien</li>
+<li>November 2013: "Wasser - Not   Wüsten - Rot" in der "Alten Schieberkammer", 1150 Wien</li>
+<li>November 2014: "Wasserstrom - Farbensturm" in der "Alten Schieberkammer", 1150 Wien</li>
+<li>Gruppenausstellung "Gefieder - flügel -  federleicht" im Offspace KRAINZigARTig, 1060 Wien im Rahmen der Vienna Art Week vom 17-23.11.2014 </li>
+<li>November 2016: "Wasserwellen Farbenwellen", in der "Alten Schieberkammer", 1150 Wien</li>
+<li>November 2017: "Die lustigen Gesellen und das Meer und mehr", in der "Alten Schieberkammer", 1150 Wien</li>
+<li>September 2018: "Wassertanz - Farbentanz" in der "Alten Schieberkammer", 1150 Wien</li>
+</ul>
+<p> </p>
+</li>
+</ul>";}i:3;a:9:{s:10:"article_id";s:1:"4";s:5:"alias";s:9:"impressum";s:5:"title";s:9:"Impressum";s:4:"info";s:26:"Das Impressum der Webseite";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-21 15:47:49";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:157:"<p>Carl Gölles<br />Siebensterngasse  <br /> A-1070 Wien</p>
+<p>0676 / 565 98 14</p>
+<p><a href="mailto:carl.goelles@gmx.at">carl.goelles@gmx.at</a></p>";}i:4;a:9:{s:10:"article_id";s:1:"5";s:5:"alias";s:17:"admin-placeholder";s:5:"title";s:12:"Adminbereich";s:4:"info";s:30:"Info-Artikel für Adminbereich";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-21 22:03:09";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:104:"<p>Das ist nur ein Platzhalter für den zukünftigen Admin-Bereich.</p>
+<p> </p>
+<p> </p>
+<p> </p>";}i:5;a:9:{s:10:"article_id";s:1:"6";s:5:"alias";s:16:"kategorie-seiten";s:5:"title";s:16:"Kategorie Seiten";s:4:"info";s:0:"";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-25 15:42:55";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:74:"In dieser Kategorien befinden sich die Seiten wie Biografie und Impressum.";}i:6;a:9:{s:10:"article_id";s:1:"7";s:5:"alias";s:5:"acryl";s:5:"title";s:4:"Acry";s:4:"info";s:0:"";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-26 11:17:26";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:12:"<p>Acryl</p>";}i:7;a:9:{s:10:"article_id";s:1:"8";s:5:"alias";s:7:"kontakt";s:5:"title";s:7:"Kontakt";s:4:"info";s:0:"";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-26 13:36:15";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:94:"<p>0664 / 32 78 113</p>
+<p><a href="mailto:carl.goelles@gmx.at">carl.goelles@gmx.at</a></p>
+";}i:8;a:9:{s:10:"article_id";s:2:"11";s:5:"alias";s:0:"";s:5:"title";s:3:"foo";s:4:"info";s:0:"";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-03-25 21:54:16";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:48:"<p>&lt;img src="http://ima" alt="FAIL" /&gt;</p>";}i:9;a:9:{s:10:"article_id";s:2:"12";s:5:"alias";s:11:"datenschutz";s:5:"title";s:11:"Datenschutz";s:4:"info";s:16:"Datenschutzinfos";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2018-05-19 17:09:15";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:10155:"<p><strong>Wir nehmen den Datenschutz sehr ernst und er ist für uns und unsere Besucher der Webseite wichtig. Bitte nehmen Sie hier alle Hinweise und Schutzmaßnahmen. </strong></p>
+<p>Die Nutzung der Webseite carl-goelles.at ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Denn der Schutz Ihrer persönlichen Daten ist uns ein Anliegen. Wir verarbeiten Ihre Daten auf Grundlage von gesetzlichen Bestimmungen (DSGVO, TKG 2003).</p>
+<p>In der Datenschutzerklärung informieren wir Sie über die Aspekte der Datenverarbeitung im Rahmen unserer Webseite. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Carl-goelles.at als Betreiber der Seiten behält sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.</p>
+<p><strong>Verarbeitung personenbezogener Daten</strong></p>
+<p>Wir verwenden / verarbeiten die von Kunden an carl-goelles.at mitgeteilten Daten (Name, Adresse, Telefonnummer, E-Mail-Adresse) zur Erfüllung und Abwicklung Ihrer Anfrage oder Ihres Auftrages.</p>
+<p><strong>Datenübertragung im Internet</strong></p>
+<p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der per E-Mail-Kommunikation) Sicherheitslücken aufweisen kann. Ein lückenlosen Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
+<p>Jedoch verwendet carl-goelles.at die Secure Socket Layer-Technologie (SSL), das bedeutet, dass die Kommunikation zwischen Ihrem Computer und unseren Servern unter Einsatz eines anerkannten Verschlüsselungsverfahren erfolgt, wenn Ihr Browser SSL unterstützt.</p>
+<p><strong>Kontaktmöglichkeit</strong></p>
+<p>Wenn Sie per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten für die Dauer der Bearbeitung bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.</p>
+<p><strong>Ihre Rechte</strong></p>
+<p>Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerpruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in irgendeiner Weise verletzt worden sind, kontaktieren Sie bitte Mag. Carl Gölles.</p>
+<p><strong>Verantwortliche Stelle</strong></p>
+<p>Verantwortliche Stelle für die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten ist Mag. Carl Gölles Siebensterngasse 29/14; 1070 Wien.</p>
+<p>Sofern Sie der Erhebung, Verarbeitung oder Nutzung Ihrer Daten durch die carl-goelles.at nach Maßgabe dieser Datenschutzbestimmungen insgesamt oder für einzelne Maßnahmen widersprechen wollen, können Sie Ihren Widerspruch jederzeit per Brief oder E-Mail oder an folgende Kontaktdaten senden: Mag. Carl Gölles, Siebensterngasse 29/14, 1070 Wien /  carl (punkt) goelles (at) gmx (punkt) at</p>
+<p><strong>Sicherheit</strong></p>
+<p>Carl-goelles.at setzt umfangreiche technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre bei uns gespeicherten personenbezogenen Daten zu schützen. Unsere Sicherheitsmaßnahmen werden regelmäßig den Stand der Technik angepasst und kontinuierlich optimiert.</p>
+<p><strong>Cookies</strong></p>
+<p>Unsere Webseite carl-goelles.at verwendet sogenannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an. Die Dateien ermöglichen es, auf dem Zugriffsgerät der Nutzer (PC, Smartphone o.ä.) spezifische, auf das Gerät bezogene Informationen zu speichern. Sie dienen zum einem der Benutzerfreundlichkeit von Webseiten und damit den Nutzern. Zum anderen dienen sie, um die statistischen Daten der Webseitennutzung zu erfassen und sie zwecks Verbesserung des Angebotes analysieren zu können. Die Nutzer können auf den Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfügen eine Option mit der das Speichern von Cookies eingeschränkt oder komplett verhindert wird.</p>
+<p>Allerdings wird darauf hingewiesen, dass die Nutzung und insbesondere der Nutzungskomfort ohne Cookies eingeschränkt werden kann. Wir nutzen Cookies dazu, um unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis sie diese löschen. Sie ermöglichen es uns, ihren Browser beim nächsten Besuch wiederzuerkennen und Sie z.B.: auf die deutsche oder englische Version der Webseite zu führen. Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben. Bei der Deaktivierung von Cookies kann die Funktionalität unserer Webseite carl-goelles.at eingeschränkt sein. Sie können viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikanische Seite <a href="http://www.aboutads.info/choices/">WWW.aboutads.info/choices/</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/uk/yur-ad-choices/">www.youronlinechoices.com/uk/your-ad-choices/</a> verwalten.</p>
+<p><strong>Erfassung von Zugriffsdaten / Server-logfiles / Webstatistik</strong></p>
+<p>Unser Provider (Standort: Deutschland) erhebt Daten über jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu den Zugriffsdaten gehören: Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Refferer-URL (die zuvor besuchte Seite), jedoch keine IP-Adresse oder anfragende Provider. Diese Protokolldaten werden nur für statistische Auswertungen zum Zweck des Betriebes, der Sicherheit und der Optimierung des Angebotes verwendet. Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.</p>
+<p><strong>Datenschutzerklärung für die Nutzung von Google Analytics</strong></p>
+<p>Diese Webseite benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Webseite wird Google diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von ihrem Browser übermittelte IP-Adesse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Webseite vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (<a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verfügbare Browser-Plugin herunterladen und installieren. Nähere Informationen zu Nutzungsbedingungen und Dtenschutz finden Sie unter <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="https://support.google.com/analytics/answer/6004245?hl=de">https://support.google.com/analytics/answer/6004245?hl=de</a>.</p>
+<p><strong>Haftung für Inhalte</strong></p>
+<p>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Dienstanbieter sind wir für eigenen Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</p>
+<p>Alle Texte, Bilder und Grafiken sowie das Layout dieser Webseite carl-goelles.at unterliegen dem Urheberrecht. Die hier zugänglich gemachten Informationen dürfen nur mit Quellenangaben kopiert oder vervielfältigt werden. Die unerlaubte Verwendung einzelner Inhalte oder Kompletter Seiten wird sowohl straf- als auch zivilrechtlich verfolgt.</p>
+<p><strong>Anmerkung</strong></p>
+<p>Die datenschutzrechtlichen Maßnahmen unterliegen stets technischen Erneuerungen aus diesem Grund bitten wir Sie, sich über unsere Datenschutzmaßnahmen in regelmäßigen Abständen durch Einsichtnahme in unsere Datenschutzerklärung zu informieren.</p>
+<p>Für den Fall, dass Verlinkungen durch fremde Internetseiten erfolgen, die einen rechtswidrigen Inhalt aufweisen oder sonst geeignet sein könnten, den Interessen oder den Ansehen unseres Unternehmens zu schaden, werden rechtliche Schritte vorbehalten.</p>
+<p>Sämtliche Informationen, Dokumente, Artikel und Fotografien auf dieser Webseite unterliegen dem Copyright und sind urheberrechtlich geschützt. Jegliche Weiterverwendung bedarf der ausdrücklichen Genehmigung. Alle Rechte bleiben vorbehalten.</p>";}}

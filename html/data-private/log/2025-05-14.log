@@ -1,0 +1,4 @@
+34.217.22.3 [2025-05-14 10:53:03] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+34.217.22.3 [2025-05-14 10:53:06] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+34.217.22.3 [2025-05-14 10:53:10] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+34.217.22.3 [2025-05-14 10:53:13] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

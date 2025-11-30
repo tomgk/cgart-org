@@ -1,0 +1,4 @@
+18.219.63.123 [2025-09-20 5:16:08] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+18.219.63.123 [2025-09-20 5:16:11] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+18.219.63.123 [2025-09-20 5:16:14] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+18.219.63.123 [2025-09-20 5:16:17] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

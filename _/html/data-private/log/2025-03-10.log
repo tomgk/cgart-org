@@ -1,0 +1,8 @@
+68.69.184.202 [2025-03-10 15:39:04] "HEAD /index.php/werke/acrylmalerei?site=56" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:04] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:06] "HEAD /index.php/werke/digitalart?site=14" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:07] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:09] "HEAD /index.php/werke/monotypie?site=14" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:09] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:12] "HEAD /index.php/werke/enkaustik?site=11" ERROR: Status 404
+68.69.184.202 [2025-03-10 15:39:12] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404

@@ -1,0 +1,14 @@
+{if $prev_path}
+<a style="float:left;width:33%" href="{$prev_path}">
+    {if isset($prev_text)}{$prev_text}{else}&laquo; vorherige Seite{/if}
+</a>
+{/if}
+
+<span style="display:block;text-align:center;width:33%;float:left{if not $prev_path};padding-left:33%{/if}">{$centertext}</span>
+
+{if $next_path}
+<a style="float:right" href="{$next_path}">
+    {if isset($next_text)}{$next_text}{else}Nächste Seite &raquo;{/if}
+</a>{/if}
+
+<br style="clear:both" />

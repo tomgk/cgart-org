@@ -1,0 +1,73 @@
+127.0.0.1 [2011-03-17 17:59:45] "GET /index.php/admin/" comming from "http://cg.goelli.test/" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, Array, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-17 18:05:36] "GET /index.php/admin/" comming from "http://cg.goelli.test/" ERROR: Status 403
+127.0.0.1 [2011-03-17 18:48:29] "GET /index.php/admin/" comming from "http://cg.goelli.test/" FATAL: exception 'SmartyException' with message 'Unable to load template file 'login.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('login.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('login.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('login', Array, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-17 18:48:30] "GET /index.php/admin/" comming from "http://cg.goelli.test/" FATAL: exception 'SmartyException' with message 'Unable to load template file 'login.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('login.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('login.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('login', Array, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-17 18:50:23] "GET /index.php/admin/" comming from "http://cg.goelli.test/" FATAL: exception 'SmartyCompilerException' with message 'Syntax Error in template "D:\www\GoelliB\domains\cg\template\base\login.tpl.html"  on line 10 "&lt;p&gt;{$info]&lt;/p&gt;"  - Unexpected "]", expected one of: "}" , " "' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php:423
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2802): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2867): Smarty_Internal_Templateparser->yy_syntax_error(62, ']')
+#2 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php(51): Smarty_Internal_Templateparser->doParse(62, ']')
+#3 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php(82): Smarty_Internal_SmartyTemplateCompiler->doCompile('<style type="te...')
+#4 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(260): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(413): Smarty_Internal_Template->compileTemplateSource()
+#6 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(555): Smarty_Internal_Template->renderTemplate()
+#7 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#8 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('login.tpl.html', NULL, NULL, NULL, true)
+#9 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('login.tpl.html', NULL)
+#10 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('login', Array, NULL)
+#11 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#12 {main}
+127.0.0.1 [2011-03-17 19:08:00] "GET /index.php/admin/" FATAL: exception 'SmartyCompilerException' with message 'Syntax Error in template "D:\www\GoelliB\domains\cg\template\base\login.tpl.html"  on line 16 "    dd,dt{border:1px dotted gray;}"  - Unexpected ":", expected one of: "}" , " "' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php:423
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2802): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2867): Smarty_Internal_Templateparser->yy_syntax_error(2, ':')
+#2 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php(51): Smarty_Internal_Templateparser->doParse(2, ':')
+#3 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php(82): Smarty_Internal_SmartyTemplateCompiler->doCompile('<style type="te...')
+#4 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(260): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(413): Smarty_Internal_Template->compileTemplateSource()
+#6 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(555): Smarty_Internal_Template->renderTemplate()
+#7 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#8 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('login.tpl.html', NULL, NULL, NULL, true)
+#9 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('login.tpl.html', NULL)
+#10 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('login', Array, NULL)
+#11 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#12 {main}
+127.0.0.1 [2011-03-17 19:08:01] "GET /index.php/admin/" FATAL: exception 'SmartyCompilerException' with message 'Syntax Error in template "D:\www\GoelliB\domains\cg\template\base\login.tpl.html"  on line 16 "    dd,dt{border:1px dotted gray;}"  - Unexpected ":", expected one of: "}" , " "' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php:423
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2802): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2867): Smarty_Internal_Templateparser->yy_syntax_error(2, ':')
+#2 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php(51): Smarty_Internal_Templateparser->doParse(2, ':')
+#3 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php(82): Smarty_Internal_SmartyTemplateCompiler->doCompile('<style type="te...')
+#4 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(260): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(413): Smarty_Internal_Template->compileTemplateSource()
+#6 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(555): Smarty_Internal_Template->renderTemplate()
+#7 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#8 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('login.tpl.html', NULL, NULL, NULL, true)
+#9 D:\www\GoelliB\domains\cg\core\ModulCall.php(331): Smarty->display('login.tpl.html', NULL)
+#10 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('login', Array, NULL)
+#11 D:\www\GoelliB\domains\cg\index.php(102): ModulCall->call(Array, Object(PathGen))
+#12 {main}

@@ -1,0 +1,23 @@
+a:9:{s:10:"article_id";s:1:"2";s:5:"alias";s:5:"werke";s:5:"title";s:5:"Werke";s:4:"info";s:17:"Infos über Werke";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-12 19:37:30";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"1";s:7:"content";s:955:"<p style="text-align: left;"><pic id="638" type="pv" align="left" width="569" height="400" /><pic id="636" type="tn" width="200" height="141" /></p>
+<div class="pic">
+<ul class="pic-list">
+</ul>
+<pic id="15" type="tn" align="left" /></div>
+<div class="pic">
+<div class="pic">
+<div class="pic">
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/5-Papageien+im+Bl%C3%BCtenmeer"> </a><a href="/index.php/werke/Acrylmalerei/5-Papageien+im+Bl%C3%BCtenmeer"> </a>
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/112-"> </a>
+<div class="pic"><a href="/index.php/werke/Acrylmalerei/106-"></a><a href="http://carl-goelles.at/index.php/admin/pic/467"><pic id="467" type="tn" align="left" width="212" height="213" /> </a></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+<div class="pic"></div>
+</div>
+</div>
+</div>
+</div>
+</div>";}

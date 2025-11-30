@@ -1,0 +1,4 @@
+a:9:{s:10:"article_id";s:1:"5";s:5:"alias";s:17:"admin-placeholder";s:5:"title";s:12:"Adminbereich";s:4:"info";s:30:"Info-Artikel für Adminbereich";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-02-21 22:03:09";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:104:"<p>Das ist nur ein Platzhalter für den zukünftigen Admin-Bereich.</p>
+<p> </p>
+<p> </p>
+<p> </p>";}

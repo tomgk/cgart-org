@@ -1,0 +1,10 @@
+52.77.234.238 [2016-04-23 12:25:35] "GET /index.php/administrator/index.php" ERROR: Status 4042
+52.77.234.238 [2016-04-23 12:25:38] "GET /index.php/werke/wp-login.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:25:39] "GET /index.php/werke/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:25:43] "GET /index.php/werke/Acrylmalerei/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:25:56] "GET /index.php/werke/Digitalart/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:25:57] "GET /index.php/werke/Monotypie/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:25:58] "GET /index.php/werke/Enkaustik/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:26:00] "GET /index.php/werke/Aquarell/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:26:09] "GET /index.php/werke/Zeichnung/administrator/index.php" ERROR: Status 404
+52.77.234.238 [2016-04-23 12:26:10] "GET /index.php/werke/Fotografie/administrator/index.php" ERROR: Status 404

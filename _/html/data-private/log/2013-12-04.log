@@ -1,0 +1,2 @@
+81.209.177.140 [2013-12-04 4:14:44] "GET /index.php/werke/Acrylmalerei/7-Frau+in+/+im+rot" ERROR: Status 404
+162.243.86.142 [2013-12-04 16:52:08] "GET /index.php/werke/Acrylmalerei/7-Frau%20in%20/%20im%20rot" comming from "http://www.carl-goelles.at/index.php/werke/Acrylmalerei?site=1" ERROR: Status 404

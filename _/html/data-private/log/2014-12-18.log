@@ -1,0 +1,3 @@
+66.249.64.5 [2014-12-18 2:04:38] "GET /index.php/werke/Acrylmalerei/179-Berge" FATAL: Cannot connect to database (2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+107.170.5.94 [2014-12-18 11:04:51] "GET /index.php/werke/Acrylmalerei/7-Frau+in+/+im+rot" comming from "http://carl-goelles.at/index.php/werke/Acrylmalerei?site=1" ERROR: Status 404
+107.170.5.94 [2014-12-18 11:09:11] "GET /index.php/werke/Acrylmalerei/7-Frau+in+/+im+rot" comming from "http://www.carl-goelles.at/index.php/werke/Acrylmalerei?site=1" ERROR: Status 404

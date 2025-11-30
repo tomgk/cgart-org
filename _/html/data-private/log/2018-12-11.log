@@ -1,0 +1,2 @@
+91.250.82.139 [2018-12-11 18:44:05] "GET /index.php?option=com_myblog&task=ajaxupload" FATAL: Cannot connect to database (1040): Too many connections
+91.250.82.139 [2018-12-11 18:44:05] "GET /index.php?option=com_adsmanager&task=upload&tmpl=component" FATAL: Cannot connect to database (1040): Too many connections

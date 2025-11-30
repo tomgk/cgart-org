@@ -1,0 +1,1 @@
+a:1:{s:13:"header_bg_img";s:6:"70.jpg";}

@@ -1,0 +1,1 @@
+35.236.19.217 [2019-02-05 10:56:11] "GET /" FATAL: Cannot connect to database (1040): Too many connections

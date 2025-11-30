@@ -1,0 +1,4 @@
+3.142.99.141 [2024-08-18 13:56:14] "GET /index.php/werke/monotypie?site=14" ERROR: Status 404
+3.142.99.141 [2024-08-18 13:56:15] "GET /index.php/werke/enkaustik?site=11" ERROR: Status 404
+3.142.99.141 [2024-08-18 13:56:17] "GET /index.php/werke/digitalart?site=14" ERROR: Status 404
+3.142.99.141 [2024-08-18 13:56:19] "GET /index.php/werke/acrylmalerei?site=56" ERROR: Status 404

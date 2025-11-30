@@ -1,0 +1,1 @@
+a:9:{s:10:"article_id";s:2:"11";s:5:"alias";s:0:"";s:5:"title";s:3:"foo";s:4:"info";s:0:"";s:6:"cat_id";s:1:"8";s:11:"create_date";s:19:"2011-03-25 21:54:16";s:13:"lastedit_date";s:19:"0000-00-00 00:00:00";s:9:"author_id";s:1:"0";s:7:"content";s:48:"<p>&lt;img src="http://ima" alt="FAIL" /&gt;</p>";}

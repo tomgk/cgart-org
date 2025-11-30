@@ -1,0 +1,5 @@
+82.80.249.195 [2025-04-29 21:19:10] "GET /index.php/werke/%E8%84%B0lmalerei" comming from "http://www.carl-goelles.at/index.php/werke/Acrylmalerei/8-Feuerwald" ERROR: Status 404
+82.80.249.195 [2025-04-29 21:19:11] "GET /index.php/werke/%EF%BE%83%E5%83%95malerei" comming from "http://www.carl-goelles.at/index.php/werke/Acrylmalerei/9-Kanute" ERROR: Status 404
+82.80.249.195 [2025-04-29 21:19:22] "GET /index.php/werke/%C3%83%E2%80%93lmalerei" comming from "http://www.carl-goelles.at/index.php/werke/Fotografie/10-" ERROR: Status 404
+82.80.249.195 [2025-04-29 21:23:46] "GET /index.php/werke/%E8%84%B0lmalerei" comming from "http://carl-goelles.at/index.php/werke/Monotypie?site=15" ERROR: Status 404
+82.80.249.195 [2025-04-29 21:52:31] "GET /index.php/werke/%C3%83%E2%80%93lmalerei" comming from "http://carl-goelles.at/index.php/werke/Acrylmalerei/257-" ERROR: Status 404

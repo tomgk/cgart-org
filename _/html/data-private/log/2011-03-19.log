@@ -1,0 +1,64 @@
+127.0.0.1 [2011-03-19 9:19:04] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 9:23:18] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 9:23:27] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 9:23:28] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 9:23:29] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 9:50:24] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-19 15:38:31] "GET /index.php/admin/Kategorie/7" comming from "http://cg.goelli.test/index.php/admin/Kategorie/0" FATAL: exception 'SmartyCompilerException' with message 'Syntax Error in template "D:\www\GoelliB\domains\cg\template\base\category_list.tpl.html"  on line 22 "        &lt;tr&gt;&lt;td style=&quot;width:15em&quot;&gt;&lt;a href=&quot;{$cat.url}&quot;&gt;{$cat.title}&lt;/a&gt;&lt;/td&gt;&lt;td&gt;[Artikel festlegen]&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;/data/pic/tn{count}.jpg&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;" unknown tag "count"' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php:423
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php(248): Smarty_Internal_TemplateCompilerBase->trigger_template_error('unknown tag "co...', 22)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2276): Smarty_Internal_TemplateCompilerBase->compileTag('count', Array)
+#2 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2759): Smarty_Internal_Templateparser->yy_r36()
+#3 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templateparser.php(2859): Smarty_Internal_Templateparser->yy_reduce(36)
+#4 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_smartytemplatecompiler.php(51): Smarty_Internal_Templateparser->doParse(10, '.jpg" /></td></...')
+#5 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_templatecompilerbase.php(82): Smarty_Internal_SmartyTemplateCompiler->doCompile('<h1>{$title}</h...')
+#6 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(260): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#7 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(413): Smarty_Internal_Template->compileTemplateSource()
+#8 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(555): Smarty_Internal_Template->renderTemplate()
+#9 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#10 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('category_list.t...', NULL, NULL, NULL, true)
+#11 D:\www\GoelliB\domains\cg\core\ModulCall.php(340): Smarty->display('category_list.t...', NULL)
+#12 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('category_list', Array, NULL)
+#13 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#14 {main}
+212.183.67.173 [2011-03-19 21:49:59] "GET /index.php" FATAL: exception 'SmartyException' with message 'Unable to load template file 'article.tpl.html'' in /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php:163
+Stack trace:
+#0 /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 /var/www/web220/html/lib/smarty/Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 /var/www/web220/html/lib/smarty/Smarty.class.php(379): Smarty->fetch('article.tpl.htm...', NULL, NULL, NULL, true)
+#3 /var/www/web220/html/core/ModulCall.php(340): Smarty->display('article.tpl.htm...', NULL)
+#4 /var/www/web220/html/core/ModulCall.php(131): ModulCall->show('article', Array, NULL)
+#5 /var/www/web220/html/domains/www/index.php(105): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+150.70.172.107 [2011-03-19 21:52:01] "GET /" FATAL: exception 'SmartyException' with message 'Unable to load template file 'article.tpl.html'' in /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php:163
+Stack trace:
+#0 /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 /var/www/web220/html/lib/smarty/Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 /var/www/web220/html/lib/smarty/Smarty.class.php(379): Smarty->fetch('article.tpl.htm...', NULL, NULL, NULL, true)
+#3 /var/www/web220/html/core/ModulCall.php(340): Smarty->display('article.tpl.htm...', NULL)
+#4 /var/www/web220/html/core/ModulCall.php(131): ModulCall->show('article', Array, NULL)
+#5 /var/www/web220/html/domains/www/index.php(105): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+212.183.67.173 [2011-03-19 21:52:49] "GET /index.php" FATAL: exception 'SmartyException' with message 'Unable to load template file 'article.tpl.html'' in /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php:163
+Stack trace:
+#0 /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 /var/www/web220/html/lib/smarty/Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 /var/www/web220/html/lib/smarty/Smarty.class.php(379): Smarty->fetch('article.tpl.htm...', NULL, NULL, NULL, true)
+#3 /var/www/web220/html/core/ModulCall.php(340): Smarty->display('article.tpl.htm...', NULL)
+#4 /var/www/web220/html/core/ModulCall.php(131): ModulCall->show('article', Array, NULL)
+#5 /var/www/web220/html/domains/www/index.php(105): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+212.183.67.173 [2011-03-19 21:52:50] "GET /index.php" FATAL: exception 'SmartyException' with message 'Unable to load template file 'article.tpl.html'' in /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php:163
+Stack trace:
+#0 /var/www/web220/html/lib/smarty/sysplugins/smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 /var/www/web220/html/lib/smarty/Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 /var/www/web220/html/lib/smarty/Smarty.class.php(379): Smarty->fetch('article.tpl.htm...', NULL, NULL, NULL, true)
+#3 /var/www/web220/html/core/ModulCall.php(340): Smarty->display('article.tpl.htm...', NULL)
+#4 /var/www/web220/html/core/ModulCall.php(131): ModulCall->show('article', Array, NULL)
+#5 /var/www/web220/html/domains/www/index.php(105): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+212.183.67.173 [2011-03-19 23:12:19] "GET /index.php/admin/silk/report.png" comming from "http://www.carl-goelles.at/index.php/admin/Kategorie" ERROR: Status 404
+212.183.67.173 [2011-03-19 23:12:19] "GET /index.php/admin/silk/pencil.png" comming from "http://www.carl-goelles.at/index.php/admin/Kategorie" ERROR: Status 404
+212.183.67.173 [2011-03-19 23:12:23] "GET /index.php/admin/silk/report.png" ERROR: Status 404
+212.183.67.173 [2011-03-19 23:15:01] "GET /index.php/admin/silk/report.png" comming from "http://www.carl-goelles.at/index.php/admin/Kategorie" ERROR: Status 404
+212.183.67.173 [2011-03-19 23:15:01] "GET /index.php/admin/silk/pencil.png" comming from "http://www.carl-goelles.at/index.php/admin/Kategorie" ERROR: Status 404

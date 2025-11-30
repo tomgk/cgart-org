@@ -1,0 +1,279 @@
+127.0.0.1 [2011-03-18 15:16:12] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:18:51] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:20:49] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:20:56] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:21:07] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:21:33] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:21:40] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:21:46] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:21:56] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:04] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:10] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:15] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:25] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:38] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:43] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:22:52] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:04] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:27] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:29] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:43] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:45] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:23:51] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:25:04] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:25:37] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:25:50] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:26:27] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:26:42] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:26:51] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:26:58] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:27:10] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:28:42] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:29:04] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:29:12] "GET /index.php/admin/" comming from "http://cg.goelli.test/index.php/werke/Aquarell?site=0" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:29:32] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:29:34] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:29:51] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:30:01] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 15:30:12] "GET /" FATAL: Cannot connect to database (2003): Can't connect to MySQL server on 'localhost' (10061)
+127.0.0.1 [2011-03-18 17:20:46] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:20:47] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:23:14] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:25:29] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:25:30] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:31:59] "GET /index.php/admin/Artikel/6111" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:32:06] "GET /index.php/admin/Gallerien" comming from "http://cg.goelli.test/index.php/admin/Artikel/6111" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:32:34] "GET /index.php/admin/Gallerien" comming from "http://cg.goelli.test/index.php/admin/Artikel/6111" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:33:42] "GET /index.php/admin/Gallerien/0" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:33:56] "GET /index.php/admin/Gallerien/0" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:33:58] "GET /index.php/admin/Gallerien/0" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:33:58] "GET /index.php/admin/Gallerien/0" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:35:02] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:35:03] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:35:04] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:35:11] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:36:03] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:36:24] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:36:25] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:36:55] "GET /index.php/admin/Gallerien/0" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:37:14] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:37:15] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:37:39] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:37:49] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:38:06] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:38:07] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:38:23] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:38:35] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:38:42] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:38:42] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" FATAL: exception 'SmartyException' with message 'Unable to load template file '.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('.tpl.html', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('.tpl.html', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show(NULL, NULL, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 17:38:57] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:38:58] "GET /index.php/admin/Artikel" comming from "http://cg.goelli.test/index.php/admin/Gallerien" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:39:13] "GET /index.php/admin/Artikel/0" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:39:24] "GET /index.php/admin/Artikel/0" ERROR: Status 404
+127.0.0.1 [2011-03-18 17:39:25] "GET /index.php/admin/Artikel/0" ERROR: Status 404
+127.0.0.1 [2011-03-18 20:33:57] "GET /index.php/admin/pics/3" comming from "http://cg.goelli.test/index.php/admin/Artikel/1" ERROR: Status 404
+127.0.0.1 [2011-03-18 20:35:16] "GET /index.php/admin/pics/3" comming from "http://cg.goelli.test/index.php/admin/Artikel/1" ERROR: Status 404
+127.0.0.1 [2011-03-18 20:37:16] "GET /index.php/admin/pics/28" comming from "http://cg.goelli.test/index.php/admin/Artikel/3" ERROR: Status 404
+127.0.0.1 [2011-03-18 20:40:44] "GET /index.php/admin//7" comming from "http://cg.goelli.test/index.php/admin/Artikel/0" ERROR: Status 404
+127.0.0.1 [2011-03-18 22:17:57] "GET /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/Kategorie/1" ERROR: Status 404
+127.0.0.1 [2011-03-18 22:45:42] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:46:24] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:46:37] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:47:18] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:47:49] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:48:35] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:48:49] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170'WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:49:52] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170' WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:49:54] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170' WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:50:40] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170' WHERE pic_id = 3' at line 1: ERROR
+127.0.0.1 [2011-03-18 22:51:00] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'year = '2007' width = '860' height = '170' WHERE pic_id = 3' at line 1 SQL=UPDATE pic SET title = '100_0682.JPG' year = '2007' width = '860' height = '170' WHERE pic_id = 3: ERROR
+127.0.0.1 [2011-03-18 22:52:47] "POST /index.php/admin/pic/3" comming from "http://cg.goelli.test/index.php/admin/pic/3" MySQL-Error(1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'width = '860' height = '170' WHERE pic_id = 3' at line 1 SQL=UPDATE pic SET title = '100_0682.JPG' width = '860' height = '170' WHERE pic_id = 3: ERROR
+127.0.0.1 [2011-03-18 23:20:58] "GET /index.php/admin/Gallerien/1" ERROR: Status 404
+127.0.0.1 [2011-03-18 23:41:50] "GET /index.php/admin/Bilder-Upload" FATAL: exception 'SmartyException' with message 'Unable to load template file 'pic_upload.tpl.html'' in D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php:163
+Stack trace:
+#0 D:\www\GoelliB\domains\cg\lib\smarty\sysplugins\smarty_internal_template.php(538): Smarty_Internal_Template->isExisting(true)
+#1 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(335): Smarty_Internal_Template->getRenderedTemplate()
+#2 D:\www\GoelliB\domains\cg\lib\smarty\Smarty.class.php(379): Smarty->fetch('pic_upload.tpl....', NULL, NULL, NULL, true)
+#3 D:\www\GoelliB\domains\cg\core\ModulCall.php(334): Smarty->display('pic_upload.tpl....', NULL)
+#4 D:\www\GoelliB\domains\cg\core\ModulCall.php(131): ModulCall->show('pic_upload', Array, NULL)
+#5 D:\www\GoelliB\domains\cg\index.php(126): ModulCall->call(Array, Object(PathGen))
+#6 {main}
+127.0.0.1 [2011-03-18 23:51:17] "GET /index.php/admin/Bilder-Upload" ERROR: Status 404
+127.0.0.1 [2011-03-18 23:52:27] "POST /index.php/admin/Bilder-Upload" comming from "http://cg.goelli.test/index.php/admin/Bilder-Upload/1" ERROR: Status 404
+127.0.0.1 [2011-03-18 23:52:47] "GET /index.php/admin/Bilder-Upload/" ERROR: Status 404

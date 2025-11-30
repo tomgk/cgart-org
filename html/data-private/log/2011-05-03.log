@@ -1,0 +1,4 @@
+80.109.5.86 [2011-05-03 21:33:18] "GET /index.php/admin/Artikel-delete/2" comming from "http://carl-goelles.at/index.php/admin/Kategorie/8" ERROR: Status 404
+80.109.5.86 [2011-05-03 21:33:19] "GET /index.php/admin/Artikel-delete/2" ERROR: Status 404
+80.109.5.86 [2011-05-03 21:33:38] "GET /index.php/admin/Artikel-delete/2" comming from "http://carl-goelles.at/index.php/admin/Kategorie/8" ERROR: Status 404
+80.109.5.86 [2011-05-03 21:33:39] "GET /index.php/admin/Artikel-delete/2" ERROR: Status 404

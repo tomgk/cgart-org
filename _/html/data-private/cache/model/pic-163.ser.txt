@@ -1,0 +1,1 @@
+a:7:{s:6:"pic_id";s:3:"163";s:5:"title";s:15:"Boote am Strand";s:4:"type";s:3:"jpg";s:5:"width";s:2:"40";s:6:"height";s:2:"30";s:6:"c_year";s:4:"2004";s:6:"cat_id";s:1:"5";}
