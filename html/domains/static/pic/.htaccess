@@ -1,0 +1,9 @@
+#ErrorDocument 404 /data/pic/tn.php
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ tn.php/$1 [L]
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*jpg)$ tn.php/$1 [L]
