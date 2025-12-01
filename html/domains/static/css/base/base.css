@@ -1,0 +1,77 @@
+body
+{
+    font-size: 16px;
+}
+
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana;
+}
+
+p
+{
+    padding: 0.5em;
+    line-height: 1.4375em;
+}
+
+h1
+{
+    font-weight: normal;
+    font-size: 1.75em;
+    margin: 0.5em 2em 0.5em 0.25em;
+    border-bottom: 2px solid #aba;
+}
+
+h2
+{
+    margin: 0 0.5em;
+    margin-right: 3em;
+    font-weight: normal;
+    font-size: 1.4em;
+    border-bottom: 1px solid gray;
+}
+
+a
+{
+    color: #14d;
+}
+
+a:hover
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #766;
+}
+
+ul.normal , ol.normal ,
+.normal ul, .normal ol
+{
+    overflow: auto;
+    padding-left: 2em;
+}
+
+ul.normal  li, ol.normal  li,
+.normal ul li, .normal ol li
+{
+    padding: 0.25em;
+}
+
+.left
+{
+    padding:0.5em;float:left;
+}
+
+.right
+{
+    padding:0.5em;float:right;
+}
+
+.clear
+{
+    clear:both;
+}

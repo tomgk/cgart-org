@@ -1,0 +1,13 @@
+@import url(base.css);
+
+ul, ol
+{
+    padding-left: 2em;
+    overflow: auto;
+    zoom: 1;
+}
+
+ul li, ol li
+{
+    padding: 0.25em;
+}
