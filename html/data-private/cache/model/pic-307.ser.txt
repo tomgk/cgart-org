@@ -1,0 +1,1 @@
+a:7:{s:6:"pic_id";s:3:"307";s:5:"title";s:0:"";s:4:"type";s:3:"jpg";s:5:"width";s:2:"32";s:6:"height";s:2:"50";s:6:"c_year";s:4:"2010";s:6:"cat_id";s:1:"4";}
