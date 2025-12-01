@@ -14,13 +14,13 @@ define('CACHE_SITES_PATH', CACHE_DIR.'sites'.DS);
 define('MODEL_CACHE', CACHE_DIR.'model'.DS);
 
 define('PIC_DIR', DATA_DIR.'pic'.DS);#im Dateisystem
-define('PIC_PATH', 'http://static.carl-goelles.at/pic/');#über HTTP
+define('PIC_PATH', 'https://static.carl-goelles.at/pic/');#über HTTP
 
-define('ICON_PATH', 'http://static.carl-goelles.at/icon/');
+define('ICON_PATH', 'https://static.carl-goelles.at/icon/');
 
-define('CSS_PATH', 'http://static.carl-goelles.at/css/');
+define('CSS_PATH', 'https://static.carl-goelles.at/css/');
 
-define('JS_PATH', 'http://static.carl-goelles.at/js/');
+define('JS_PATH', 'https://static.carl-goelles.at/js/');
 
 //define('TEMPLATE_PATH', PROJECT_PATH.'template'.DS);
 //define('CONFIG_PATH', PROJECT_PATH.'cfg'.DS);
